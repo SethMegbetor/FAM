@@ -1,0 +1,13 @@
+body {
+  /* background-color: red; */
+  background-image: url(./image.jpg);
+  /* background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover; */
+}
+h1 {
+  text-align: center;
+}
+form {
+  text-align: center;
+}

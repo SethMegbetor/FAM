@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\jasonsMusic"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "janelleBooks"
+	}
+}
